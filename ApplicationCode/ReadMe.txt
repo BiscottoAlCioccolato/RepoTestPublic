@@ -1,1 +1,1 @@
-Lo scrivo da fuori
+lo scrivo internamente
