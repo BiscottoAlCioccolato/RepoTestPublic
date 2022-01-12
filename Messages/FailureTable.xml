@@ -2,7 +2,7 @@
 <Root Version="4.5.0.0">
   <Sequence Name="MainSequence">
     <Step Id="ID#:ZP2l/7Jz7BG/QhxNcMefTA" Name="Label" FailureCode="0">
-      <Language LangCode="en-US" FailureDescription="riga1" />
+      <Language LangCode="en-US" FailureDescription="riga2" />
     </Step>
   </Sequence>
 </Root>
