@@ -1,1 +1,1 @@
-lo scrivo internamente
+Parallelepipedo
